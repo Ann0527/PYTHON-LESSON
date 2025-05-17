@@ -32,4 +32,4 @@ while(True):
     if(play_again == 'n'):
         break
 
-print("遊戲結束")
+print("遊戲結束!!!")
